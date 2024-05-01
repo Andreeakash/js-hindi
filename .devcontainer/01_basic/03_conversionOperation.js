@@ -45,8 +45,61 @@ let amanIsTrue = Boolean(aman);
 // " ", empty string alwasys gives you zero where as  defined string gives you true value
 //" " => false, " Aman" => true
 
-let someNumber = 33
-let stingNUmber=String(someNumber);
-console.log(stingNUmber);
-console.log(typeof stingNUmber);
+// let someNumber = 33
+// let stingNUmber=String(someNumber);
+// console.log(stingNUmber);
+// console.log(typeof stingNUmber);
+
+
+
+// ************* Operation ***************
+
+
+let value = 3
+let negvalue =-value;
+// console.log(negvalue);
+
+
+// console.log(3+3);
+// console.log(3*3);
+// console.log(2**4);
+// console.log(8/2);
+// console.log(9%3);
+// console.log(48-25);
+
+
+let str1 = "hello"
+let str2 = "  Aman"
+let str3 = str1+ str2;
+// console.log(str3);
+
+
+// console.log("1"+1);
+// console.log(1+"1");
+// console.log("1"+1+1);
+// console.log(1+1+"2");
+// // prefer this type of code
+
+// console.log((1+1) * 2+3);
+
+// console.log(true);
+// console.log(+true);// gives you 1
+// console.log(+"");// type conversion it is a wrong process
+
+// let num1, num2 , num3 ;
+// num1, num2, num3 = 2+2;
+// console.log(num1);
+// console.log(num2);
+// console.log(num3);
+
+
+let gameCounter =100
+// ++gameCounter;
+gameCounter++;
+
+console.log(gameCounter);
+
+
+
+
 
