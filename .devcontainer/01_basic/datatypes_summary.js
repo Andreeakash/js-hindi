@@ -36,15 +36,19 @@ let MyObj={
 // to their dat types use the his method
 
 // console.log(BigNUmber);
-console.log( typeof myFunction);
-console.log( typeof id);
-console.log( typeof OutSideTemp);
-console.log(typeof isLoggedIn);
-console.log(typeof scoreValue);
+// console.log( typeof myFunction);
+// console.log( typeof id);
+// console.log( typeof OutSideTemp);
+// console.log(typeof isLoggedIn);
+// console.log(typeofscoreValue);
 
 
 
 //  reference  types or non primitive 
 /*
 Array, Objects, Functions
+
+https://262.ecma-international.org/5.1/#sec-11.4.3
 */
+
+
